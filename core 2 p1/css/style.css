@@ -1,0 +1,35 @@
+body{
+    background-color:chocolate;
+}
+
+.coverclick{
+    font-family: Arial, sans-serif;
+    font-size: 40px;
+}
+
+.explore{
+    font-family: Arial, sans-serif;
+    font-size: 30px;
+    position: relative;
+}
+
+.click{
+    font-family: Arial, sans-serif;
+    font-size: 30px;
+    position: absolute;
+    top: 98px;
+    left: 195px;
+    color:aquamarine;
+}
+
+.smoke{
+    position: absolute;
+    right: 50px;
+}
+
+.foot{
+    width: 1000px;
+    height: 1000px;
+    position: relative;
+    left: 600px;
+}
